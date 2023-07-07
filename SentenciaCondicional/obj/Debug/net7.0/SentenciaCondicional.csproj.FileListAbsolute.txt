@@ -1,0 +1,15 @@
+C:\Ucreativa\Cuatri 1\Programacion\Tarea-3\SentenciaCondicional\bin\Debug\net7.0\SentenciaCondicional.exe
+C:\Ucreativa\Cuatri 1\Programacion\Tarea-3\SentenciaCondicional\bin\Debug\net7.0\SentenciaCondicional.deps.json
+C:\Ucreativa\Cuatri 1\Programacion\Tarea-3\SentenciaCondicional\bin\Debug\net7.0\SentenciaCondicional.runtimeconfig.json
+C:\Ucreativa\Cuatri 1\Programacion\Tarea-3\SentenciaCondicional\bin\Debug\net7.0\SentenciaCondicional.dll
+C:\Ucreativa\Cuatri 1\Programacion\Tarea-3\SentenciaCondicional\bin\Debug\net7.0\SentenciaCondicional.pdb
+C:\Ucreativa\Cuatri 1\Programacion\Tarea-3\SentenciaCondicional\obj\Debug\net7.0\SentenciaCondicional.csproj.AssemblyReference.cache
+C:\Ucreativa\Cuatri 1\Programacion\Tarea-3\SentenciaCondicional\obj\Debug\net7.0\SentenciaCondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ucreativa\Cuatri 1\Programacion\Tarea-3\SentenciaCondicional\obj\Debug\net7.0\SentenciaCondicional.AssemblyInfoInputs.cache
+C:\Ucreativa\Cuatri 1\Programacion\Tarea-3\SentenciaCondicional\obj\Debug\net7.0\SentenciaCondicional.AssemblyInfo.cs
+C:\Ucreativa\Cuatri 1\Programacion\Tarea-3\SentenciaCondicional\obj\Debug\net7.0\SentenciaCondicional.csproj.CoreCompileInputs.cache
+C:\Ucreativa\Cuatri 1\Programacion\Tarea-3\SentenciaCondicional\obj\Debug\net7.0\SentenciaCondicional.dll
+C:\Ucreativa\Cuatri 1\Programacion\Tarea-3\SentenciaCondicional\obj\Debug\net7.0\refint\SentenciaCondicional.dll
+C:\Ucreativa\Cuatri 1\Programacion\Tarea-3\SentenciaCondicional\obj\Debug\net7.0\SentenciaCondicional.pdb
+C:\Ucreativa\Cuatri 1\Programacion\Tarea-3\SentenciaCondicional\obj\Debug\net7.0\SentenciaCondicional.genruntimeconfig.cache
+C:\Ucreativa\Cuatri 1\Programacion\Tarea-3\SentenciaCondicional\obj\Debug\net7.0\ref\SentenciaCondicional.dll
